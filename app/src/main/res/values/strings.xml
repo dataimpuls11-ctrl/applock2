@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App Blocker</string>
+    <string name="schedule_title">Set Block Schedule</string>
+    <string name="accessibility_service_description">Lets App Blocker detect when a blocked app is opened and close it immediately.</string>
+    <string name="enable_accessibility">Enable Accessibility Permission</string>
+    <string name="permission_needed_title">Permission Required</string>
+    <string name="permission_needed_body">App Blocker needs the Accessibility permission to detect and close blocked apps instantly. Please enable it on the next screen.</string>
+    <string name="always_block">Always Block</string>
+    <string name="time_block">Time Block</string>
+    <string name="set_schedule">Set Schedule</string>
+    <string name="no_schedule">No schedule set</string>
+    <string name="start_time">Start time</string>
+    <string name="end_time">End time</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear_schedule">Clear Schedule</string>
+    <string name="service_status_on">Protection is ON</string>
+    <string name="service_status_off">Protection is OFF — tap to enable</string>
+    <string name="blocked_toast">This app is blocked right now</string>
+    <string name="prevent_reinstall">Prevent Re-installation</string>
+    <string name="prevent_reinstall_hint">Block this app from being installed while blocked</string>
+    <string name="install_blocked_title">Installation Blocked</string>
+    <string name="install_blocked_body">This app cannot be installed during its blocked period. Please uninstall it.</string>
+    <string name="uninstall_now">Uninstall Now</string>
+</resources>
